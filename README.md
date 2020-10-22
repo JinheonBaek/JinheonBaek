@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm [Jinheon Baek](https://jinheonbaek.github.io/about/).
+I'm an M.S. student in the Graduate school of AI at KAIST [(MLAI Lab)](https://www.mlai-kaist.com/), advised by Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/).
+
+![Jinheon's github stats](https://github-readme-stats.vercel.app/api?username=jinheonbaek&show_icons=true&count_private=true)
+
 
 <!--
 **JinheonBaek/JinheonBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
